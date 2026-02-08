@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Redirecting…</title>
+  Redirecting…
   <meta http-equiv="refresh" content="0; url=https://falabella.quarto.pub/">
   <link rel="canonical" href="https://falabella.quarto.pub/">
 </head>
